@@ -55,8 +55,8 @@ An interactive Power BI dashboard is included to visualize key insights.
 
 ## Files
 
-notebooks/ – Python analysis notebook
-reports/ – Detailed project report (PDF)
-dashboards/ – Power BI dashboard
-data/ – Dataset used for analysis
+- notebooks/ – Python analysis notebook
+- reports/ – Detailed project report (PDF)
+- dashboards/ – Power BI dashboard
+- data/ – Dataset used for analysis
 
